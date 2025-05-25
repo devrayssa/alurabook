@@ -52,8 +52,6 @@ Exemplos visuais do projeto em funcionamento:
 *   **Carrossel interativo com os livros em destaque:**  
     ![Carrossel](img2.png)
 
-_Substitua os caminhos acima pelas imagens reais do seu projeto._
-
 ---
 
 ## 🤝 Contribuindo
