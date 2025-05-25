@@ -48,9 +48,9 @@ Nenhuma instalação adicional é necessária! O projeto é totalmente estático
 Exemplos visuais do projeto em funcionamento:
 
 *   **Página inicial com design responsivo:**  
-    ![Página Inicial](https://grok.com/chat/caminho/para/imagem1.png)
+    ![Página Inicial](img1.png)
 *   **Carrossel interativo com os livros em destaque:**  
-    ![Carrossel](https://grok.com/chat/caminho/para/imagem2.png)
+    ![Carrossel](img2.png)
 
 _Substitua os caminhos acima pelas imagens reais do seu projeto._
 
@@ -68,15 +68,9 @@ Também é possível abrir uma [issue](https://github.com/devrayssa/alurabook/is
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 ## 💙 Agradecimentos
 
 Agradecimentos especiais à [Alura](https://www.alura.com.br/) pelo conteúdo incrível que me guiou nesse projeto. Este foi um dos meus primeiros passos no mundo do desenvolvimento web — e estou muito animado por compartilhar isso com você!
 
-Feito com 💻, café ☕ e muita vontade de aprender por [Cael (devrayssa)](https://github.com/devrayssa).
+Feito com 💻, café ☕ e muita vontade de aprender por [Rayssa (devrayssa)](https://github.com/devrayssa).
 
